@@ -1,0 +1,253 @@
+part - of - speech tagging
+word - to - word
+part - of - speech
+state - ofthe - art
+tree - to - string
+- fold cross - validation
+end - to - end
+state - of - theart
+sequence - to - sequence
+context - free grammar
+right - hand side
+log - linear model
+- fold cross validation
+multi - document summarization
+inter - annotator agreement
+semi - supervised learning
+multi - task learning
+pre - trained word
+natural language processing
+high - level
+low - level
+machine translation system
+first - order
+sentence - level
+predicate - argument
+natural language generation
+point of view
+part of speech
+finite - state
+long - distance
+real - time
+word sense disambiguation
+co - occurrence
+trade - off
+real - world
+high - quality
+statistical machine translation
+n - gram
+question - answer
+set of candidate
+number of training
+amount of training
+second - order
+word - level
+f - measure
+log - likelihood
+chinese word segmentation
+t - test
+character - level
+feed - forward
+document - level
+gram language model
+gold - standard
+open - domain
+f - score
+semantic role labeling
+self - training
+recurrent neural network
+stochastic gradient descent
+f1 - score
+low - resource
+hyper - parameter
+sub - word
+token - level
+target - side
+source - side
+ground - truth
+skip - gram
+neural machine translation
+encoder - decoder
+self - attention
+large number
+time complexity
+natural language
+previous work
+syntactic structure
+recent work
+logical form
+language understanding
+speech recognition
+related work
+standard deviation
+test set
+semantic information
+noun phrase
+next section
+small number
+parse tree
+sentence length
+dependency structure
+phrase structure
+input sentence
+search space
+co -
+machine translation
+previous section
+word sense
+same sentence
+head word
+knowledge base
+semantic representation
+sub -
+sentence level
+contextual information
+large amount
+discourse structure
+average number
+current state
+future work
+single word
+cross -
+first step
+decision tree
+root node
+target language
+source language
+english translation
+tree structure
+prior knowledge
+non -
+text generation
+feature set
+e -
+syntactic information
+lexical information
+beam search
+evaluation metric
+total number
+time step
+generative model
+dynamic programming
+phrase table
+information retrieval
+word pair
+training corpus
+training set
+mutual information
+similarity measure
+error rate
+dialog system
+morphological analysis
+linguistic knowledge
+semantic role
+word order
+semantic parsing
+neural network
+scoring function
+training time
+target word
+language model
+word level
+source word
+source sentence
+target sentence
+english word
+high precision
+hidden layer
+language pair
+maximum likelihood
+probabilistic model
+semantic similarity
+large corpus
+conditional probability
+small set
+language modeling
+translation model
+word sequence
+probability distribution
+overall performance
+input sequence
+local context
+% accuracy
+significant improvement
+test corpus
+data set
+vocabulary size
+feature space
+feature vector
+supervised learning
+baseline system
+classification task
+dependency tree
+word similarity
+dependency relation
+gram model
+error analysis
+automatic evaluation
+objective function
+correct answer
+classification problem
+distributional similarity
+maximum entropy
+high quality
+information extraction
+vector space
+vector representation
+learning rate
+context vector
+learning algorithm
+word segmentation
+window size
+ground truth
+context information
+translation quality
+baseline model
+development set
+edit distance
+_ b
+machine learning
+dialog act
+source domain
+parallel corpus
+word alignment
+sentence pair
+gold standard
+search engine
+prior work
+beam size
+batch size
+logistic regression
+weight vector
+binary classification
+coreference resolution
+dependency parser
+target side
+i t
+entity recognition
+active learning
+relation extraction
+feature selection
+validation set
+topic model
+dependency parsing
+target domain
+reinforcement learning
+cosine similarity
+joint model
+text classification
+human evaluation
+art performance
+domain adaptation
+loss function
+test time
+tree kernel
+hidden state
+sentiment classification
+sentiment analysis
+sequence labeling
+phrase pair
+h t
+distant supervision
+deep learning
+attention mechanism
